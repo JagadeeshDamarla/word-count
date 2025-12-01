@@ -7,7 +7,13 @@ This repo will contain different ways to count the words.
   - Apache Beam (exploring p-transform and p-collections)
  
 # Data file
+The data file is collected from Internet and used for word counting.
 
+# Steps
+- Read the file
+- Count the number of words and their frequencies
+- Display the top 5 words in asceding order
+- 
 # Data Description
 
 # Method 1 : Python notebook
